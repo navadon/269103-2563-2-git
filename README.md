@@ -4,9 +4,10 @@
 ### Instructions
 * Fork this repo
 * In your forked repo,
-  * Create a branch and name it properly like "en" for translating into English
-  * Pick one song from `/songs`
-  * Translate the song line by line
+  * Pick two songs from `/songs`
+  * Create a branch (or branches)
+  * Name it properly like "en" for translating into English
+  * Translate the songs line by line
   * Add the changes with a good commit message
   * Merge changes to your main branch (Do not delete the "en" branch)
   * Submit your pull request
