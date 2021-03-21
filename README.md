@@ -11,8 +11,8 @@
   * Add the changes with a good commit message.
   * The first and second translation must be done separately, so they are different commits.
   * After complete translating both songs, merge changes to your main branch. Do not delete the branch after merging.
-  * Submit your pull request by Sunday April 4, 2021 11:59pm (GMT+7).
-* Go to the base repo, check if your PR is shown at "Pull requests".
+  * Submit your pull request to the __[base repo](https://github.com/navadon/269103-2563-2-git) (NOT your forked repo!)__ by Sunday April 4, 2021 11:59pm (GMT+7).
+* Go to the __[base repo](https://github.com/navadon/269103-2563-2-git)__, check if your PR is shown at "Pull requests".
 * Late submission will not be graded.
 
 ### References
