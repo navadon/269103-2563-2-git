@@ -7,7 +7,7 @@
   * Pick two songs from `/songs`
   * Create a branch (or branches)
   * Give the branch name properly (like "en" for translating into English)
-  * Translate the songs to English line by line
+  * Translate the songs into English line by line
   * Add the changes with a good commit message
   * The first and second translation must be done separately so they are different commits
   * After complete translating both songs, merge changes to your main branch (Do not delete the branch after merging)
