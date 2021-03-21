@@ -1,8 +1,12 @@
-ผมเอาแครอทมาฝาก  
-อยากให้เธอได้กิน  
-ผักมีวิตามิน  
-ไม่ต้องกินของแพง  
-ผมเอาแครอทมาฝาก  
-อยากให้เธอแข็งแรง  
-แก้มของเธอจะแดง  
-แดงเหมือนสีแครอท
+# KindMountainBoy Lyric English Version
+## By Arissawat Tresresiri 630615045 
+
+__I Have a Carrot For You   
+Want You To Eat It   
+Vegetable Have Vitamin  
+Do not eat expensive things__  
+
+__I Have a Carrot For You   
+Want You To Strong     
+Your Cheek Will Change To Red   
+Red as a Carrot__
