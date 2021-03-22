@@ -1,4 +1,4 @@
-พ.ศ. 2504  
-ผู้ใหญ่ลีตีกลองประชุม  
-ชาวบ้านต่างมาชุมนุม  
-มาประชุมที่บ้านผู้ใหญ่ลี
+B.E 2504
+HeadmanLee hit drum meeting
+Different villager come meeting
+come meeting at home headmanLee
