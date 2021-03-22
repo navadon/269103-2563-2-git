@@ -1,4 +1,4 @@
-ไก่ ไก่ ไก่ ตัวเล็กตัวใหญ่  
-ชวนกันไปคุ้ยเขี่ยหากิน  
-บ้างก็วิ่ง บ้างก็บิน  
-ชิงกันกินจนตัวมันใหญ่
+*Chic chic chicken Small, Big chicken*  
+*Chicken invites each other to scare for a living.*  
+*Some chickens also ran. Some chickens fly.*  
+*Ching each other chicken to eat until it's big.*  
