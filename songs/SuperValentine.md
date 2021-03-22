@@ -1,5 +1,5 @@
 # Super Valentine English Lyrics
-## By Arissawat Tresresiri 630615045
+## Lyrics By Arissawat Tresresiri 630615045
 
 __*My name's Jane     
 Please call me Jane     
