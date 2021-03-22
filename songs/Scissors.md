@@ -1,5 +1,5 @@
-กรรไกร ไข่ ผ้าไหม  
-ไข่หนึ่งใบ สองบาท ห้าสิบ  
-ห้าสิบ สองบาท หนึ่งใบ  
-ไข่ ผ้าไหม  
-ไข่ กรรไกร  
+scissors egg silk
+one egg two Bath fifty
+fifty two Bath one egg
+egg silk
+egg scissors
