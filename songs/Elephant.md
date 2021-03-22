@@ -1,5 +1,5 @@
-ช้าง ช้าง ช้าง  
-น้องเคยเห็นช้างหรือเปล่า  
-ช้างมันตัวโตไม่เบา จมูกยาว ๆ เรียกว่างวง  
-มีเขี้ยวใต้งวงเรียกว่างา  
-มีหู มีตา หางยาว
+Ele Ele Elephant 
+Have you ever see an elephant?
+Big elephants are not light and the long nose calls trunk. 
+There are fangs under the trunk called tusks.
+It’s have ears, have eyes, long tail.
