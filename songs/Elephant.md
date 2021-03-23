@@ -3,5 +3,6 @@ Elephant Elephant Elephant
 น้องเคยเห็นช้างหรือเปล่า  
 Have you ever seen elephant?  
 ช้างมันตัวโตไม่เบา จมูกยาว ๆ เรียกว่างวง  
+It is big and long nose that called trunk  
 มีเขี้ยวใต้งวงเรียกว่างา  
 มีหู มีตา หางยาว
