@@ -4,4 +4,5 @@ In 1961 or 2504 BE
 HeadmanLee hit drum to meeting  
 ชาวบ้านต่างมาชุมนุม  
 villagers come to gather together  
-มาประชุมที่บ้านผู้ใหญ่ลี
+มาประชุมที่บ้านผู้ใหญ่ลี  
+meeting at HeadmanLee’s house
