@@ -1,4 +1,4 @@
-# Elephant Song
+## ~~~ Elephant Song ~~~
 #### Nuttanicha Prakatwuttisarn 
 #### 630615020
 ช้าง ช้าง ช้าง  
@@ -11,3 +11,4 @@ _It is big and long nose that called trunk_
 _there are canines under trunk called ivory_  
 มีหู มีตา หางยาว  
 _there are ears, eyes and long tail_
+
