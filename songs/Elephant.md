@@ -1,10 +1,13 @@
+# Elephant Song
+#### Nuttanicha Prakatwuttisarn 
+#### 630615020
 ช้าง ช้าง ช้าง  
-Elephant Elephant Elephant  
+_Elephant Elephant Elephant_  
 น้องเคยเห็นช้างหรือเปล่า  
-Have you ever seen elephant?  
+_Have you ever seen elephant?_ 
 ช้างมันตัวโตไม่เบา จมูกยาว ๆ เรียกว่างวง  
-It is big and long nose that called trunk  
+_It is big and long nose that called trunk_  
 มีเขี้ยวใต้งวงเรียกว่างา  
-there are canines under trunk called ivory  
+_there are canines under trunk called ivory_  
 มีหู มีตา หางยาว  
-there are ears, eyes and long tail
+_there are ears, eyes and long tail_
