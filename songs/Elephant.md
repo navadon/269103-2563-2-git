@@ -5,4 +5,5 @@ Have you ever seen elephant?
 ช้างมันตัวโตไม่เบา จมูกยาว ๆ เรียกว่างวง  
 It is big and long nose that called trunk  
 มีเขี้ยวใต้งวงเรียกว่างา  
+there are canines under trunk called ivory  
 มีหู มีตา หางยาว
