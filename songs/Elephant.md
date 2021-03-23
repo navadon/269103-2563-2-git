@@ -6,4 +6,5 @@ Have you ever seen elephant?
 It is big and long nose that called trunk  
 มีเขี้ยวใต้งวงเรียกว่างา  
 there are canines under trunk called ivory  
-มีหู มีตา หางยาว
+มีหู มีตา หางยาว  
+there are ears, eyes and long tail
