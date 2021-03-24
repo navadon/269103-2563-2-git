@@ -2,7 +2,7 @@
 หนูชื่อเจน My name is Jane  
 มากับนุ่น และก็มากับโบว์ come with Noon and Bow  
 นุ่นค่ะ นุ่นค่ะ My name is Noon My name is Noon  
-หนูชื่อนุ่น  
+หนูชื่อนุ่น My name is Noon
 มากับเจน และก็มากับโบว์  
 โบว์ค่ะ โบว์ค่ะ  
 หนูชื่อโบว์  
