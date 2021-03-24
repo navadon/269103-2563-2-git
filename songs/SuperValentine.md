@@ -4,6 +4,6 @@
 นุ่นค่ะ นุ่นค่ะ My name is Noon My name is Noon  
 หนูชื่อนุ่น My name is Noon
 มากับเจน และก็มากับโบว์ Come with Jane and Noon 
-โบว์ค่ะ โบว์ค่ะ  
+โบว์ค่ะ โบว์ค่ะ My name is Bow My name is Bow 
 หนูชื่อโบว์  
 มากับนุ่น และก็มากับเจน  
