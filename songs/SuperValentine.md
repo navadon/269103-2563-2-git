@@ -5,5 +5,5 @@
 หนูชื่อนุ่น My name is Noon  
 มากับเจน และก็มากับโบว์ Come with Jane and Noon   
 โบว์ค่ะ โบว์ค่ะ My name is Bow My name is Bow   
-หนูชื่อโบว์ My name is Bow
-มากับนุ่น และก็มากับเจน  
+หนูชื่อโบว์ My name is Bow  
+มากับนุ่น และก็มากับเจน Come with Noon and Jane  
