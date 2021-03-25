@@ -2,4 +2,4 @@
 ยื่นซ้ายมาจับมือกันมั่น Reach out left hand and shake hand  
 มือขวาใช้เคารพกัน Right hand use to pay respect  
 มือขวาใช้เคารพกัน Right hand use to pay respect  
-ยื่นซ้ายออกมาพลันจับมือ ๆ
+ยื่นซ้ายออกมาพลันจับมือ ๆ Reach out left hand and shake hand shake hand
