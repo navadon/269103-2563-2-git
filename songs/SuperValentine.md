@@ -6,4 +6,4 @@
 มากับเจน และก็มากับโบว์ come with Jane and come with Bow  
 โบว์ค่ะ โบว์ค่ะ I'm Bow I'm Bow  
 หนูชื่อโบว์ I'm Bow  
-มากับนุ่น และก็มากับเจน  
+มากับนุ่น และก็มากับเจน come with Noon and come with Jane  
