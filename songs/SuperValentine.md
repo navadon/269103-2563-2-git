@@ -1,9 +1,9 @@
-เจนค่ะ เจนค่ะ  
-หนูชื่อเจน  
-มากับนุ่น และก็มากับโบว์  
-นุ่นค่ะ นุ่นค่ะ  
-หนูชื่อนุ่น  
-มากับเจน และก็มากับโบว์  
-โบว์ค่ะ โบว์ค่ะ  
-หนูชื่อโบว์  
-มากับนุ่น และก็มากับเจน  
+Jane Ka Jane Ka
+My name is Jane
+Come with Nun and then come with Bow
+Nun Ka Nun Ka
+My name is Nun
+Come with Jane and then come with Bow
+Bow Ka Bow Ka
+My name is Bow
+Come with Nun and then come with Jane
