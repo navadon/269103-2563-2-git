@@ -5,4 +5,4 @@ ka share kan
 talok nung mun aok ma hai mod
 talok nung mun aok ma hai mod
 mun ka wua
-man ka kwai
+man ka kwai.
