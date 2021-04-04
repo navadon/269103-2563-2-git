@@ -1,5 +1,8 @@
-เมาคลีล่าสัตว์ เมาคลีล่าสัตว์  
-ฆ่าแชร์คาน ฆ่าแชร์คาน  
-ถลกหนังมันออกมาให้หมด  
-ถลกหนังมันออกมาให้หมด  
-มันฆ่าวัว มันฆ่าควาย
+mao cli la sud
+mao cli la sud
+ka share kan
+ka share kan
+talok nung mun aok ma hai mod
+talok nung mun aok ma hai mod
+mun ka wua
+man ka kwai.
